@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    defaultConfig {
+        applicationId "com.vuzix.sample.barcode_sample"
+        minSdkVersion 22
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    //implementation 'com.vuzix:sdk-barcode:1.4'
+    implementation files('C:/Users/kevin/Documents/UT/Vuzix/Vuzix Blade/sdk-barcode.jar')
+    implementation 'com.squareup.okhttp3:okhttp:3.6.0'
+    implementation 'com.android.volley:volley:1.2.1'
+}

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Feb 10 12:08:37 CST 2023
+0.base=C\:\\Users\\kevin\\Documents\\UT\\Vuzix\\Projects\\BarcodeEmbeddedScanner_v1.1\\BarcodeEmbeddedScanner\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\out
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

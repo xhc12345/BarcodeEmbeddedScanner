@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\kevin\\Documents\\UT\\Vuzix\\Projects\\BarcodeEmbeddedScanner_v1.1\\BarcodeEmbeddedScanner\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "C:\\Users\\kevin\\Documents\\UT\\Vuzix\\Projects\\BarcodeEmbeddedScanner_v1.1\\BarcodeEmbeddedScanner\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "C:\\Users\\kevin\\Documents\\UT\\Vuzix\\Projects\\BarcodeEmbeddedScanner_v1.1\\BarcodeEmbeddedScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_result.xml.flat",
+        "source": "C:\\Users\\kevin\\Documents\\UT\\Vuzix\\Projects\\BarcodeEmbeddedScanner_v1.1\\BarcodeEmbeddedScanner\\app\\src\\main\\res\\layout\\fragment_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\kevin\\Documents\\UT\\Vuzix\\Projects\\BarcodeEmbeddedScanner_v1.1\\BarcodeEmbeddedScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kevin\\Documents\\UT\\Vuzix\\Projects\\BarcodeEmbeddedScanner_v1.1\\BarcodeEmbeddedScanner\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

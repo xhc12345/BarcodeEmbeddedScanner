@@ -1,0 +1,14 @@
+com.vuzix.sample.barcode_sample
+id bitmap
+id fragment_container
+id scan_instructions
+id text
+layout activity_main
+layout fragment_result
+raw beep
+string app_name
+string grant_camera_permission
+string main_activity_name
+string only_on_m300
+string scan_instructions
+string scanner_error_message
