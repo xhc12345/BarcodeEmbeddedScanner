@@ -23,11 +23,11 @@ You will also need to set up a Hue bridge with a Hue light, then connect the bri
 
 There are two parts:
 
-1. [Get the Hue lights ready to receive commands.](#1.-get-the-hue-lights-ready-to-receive-commands)
-2. [Get the android app ready on Blade.](#2.-get-the-android-app-ready-to-on-blade)
+1. [Get the Hue lights ready to receive commands.](#1-get-the-hue-lights-ready-to-receive-commands)
+2. [Get the android app ready on Blade.](#2-get-the-android-app-ready-to-on-blade)
 
 
-##### 1. Get the Hue lights ready to receive commands
+#### 1. Get the Hue lights ready to receive commands
 
 There are 3 things needed to identify and interact with a specific Hue light:
 
@@ -57,7 +57,7 @@ Using a text-to-QR converter, create QR code of those 3 informations based on th
 Upon scanning this QR code, the app converts this JSON object to a custom Java object. If the format is not correct, then it will fail to create and no requests can be send.
 
 
-##### 2. Get the Android app ready to on Blade
+#### 2. Get the Android app ready to on Blade
 
 1. Install Android Studio.
 2. Import this project into Android Studio.
