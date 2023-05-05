@@ -1,7 +1,13 @@
-#Fri Apr 14 18:45:55 CDT 2023
-base.1=C\:\\Users\\kevin\\Documents\\UT\\Vuzix\\Projects\\BarcodeEmbeddedScanner_v1.1\\BarcodeEmbeddedScanner\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+#Fri May 05 13:29:20 CDT 2023
+path.3=classes.dex
+path.2=classes.dex
 path.1=classes.dex
+path.0=classes.dex
+base.3=C\:\\Users\\kevin\\Documents\\UT\\Vuzix\\Projects\\BarcodeEmbeddedScanner_v1.1\\BarcodeEmbeddedScanner\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.2=C\:\\Users\\kevin\\Documents\\UT\\Vuzix\\Projects\\BarcodeEmbeddedScanner_v1.1\\BarcodeEmbeddedScanner\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+base.1=C\:\\Users\\kevin\\Documents\\UT\\Vuzix\\Projects\\BarcodeEmbeddedScanner_v1.1\\BarcodeEmbeddedScanner\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
 base.0=C\:\\Users\\kevin\\Documents\\UT\\Vuzix\\Projects\\BarcodeEmbeddedScanner_v1.1\\BarcodeEmbeddedScanner\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+renamed.3=classes4.dex
+renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-path.0=classes.dex

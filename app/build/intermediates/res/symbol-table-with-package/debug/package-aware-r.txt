@@ -6,6 +6,7 @@ id text
 layout activity_main
 layout fragment_result
 raw beep
+raw huebridge_cacert
 string app_name
 string grant_camera_permission
 string main_activity_name

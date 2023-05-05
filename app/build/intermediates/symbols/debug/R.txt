@@ -5,6 +5,7 @@ int id text 0x7f010003
 int layout activity_main 0x7f020000
 int layout fragment_result 0x7f020001
 int raw beep 0x7f030000
+int raw huebridge_cacert 0x7f030001
 int string app_name 0x7f040000
 int string grant_camera_permission 0x7f040001
 int string main_activity_name 0x7f040002

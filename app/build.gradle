@@ -25,7 +25,8 @@ android {
 
 dependencies {
     //implementation 'com.vuzix:sdk-barcode:1.4'
-    implementation files('C:/Users/kevin/Documents/UT/Vuzix/Vuzix Blade/sdk-barcode.jar')
+//    implementation files('C:/Users/kevin/Documents/UT/Vuzix/Vuzix Blade/sdk-barcode.jar')
     implementation 'com.squareup.okhttp3:okhttp:3.6.0'
     implementation 'com.android.volley:volley:1.2.1'
+    implementation files('libs\\sdk-barcode.jar')
 }
