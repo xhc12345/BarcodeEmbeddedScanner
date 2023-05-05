@@ -17,7 +17,7 @@ If the scanned result contain information (in the correct format) that correspon
 
 ### How to run it?
 
-You will need to have a Vuzix Blade with Android 22. It is highly recommended that you install [Vuzix View](https://www.vuzix.com/pages/vuzix-view-software "Link not guaranteed to work") too. Vuzix View basically allows you to interact with the glass through the computer, given a glass is connected.
+You will need to have a Vuzix Blade with Android sdk 22. It is highly recommended that you install [Vuzix View](https://www.vuzix.com/pages/vuzix-view-software "Link not guaranteed to work") too. Vuzix View basically allows you to interact with the glass through the computer, given a glass is connected.
 
 You will also need to set up a Hue bridge with a Hue light, then connect the bridge to your local area network.
 
